@@ -2,7 +2,7 @@ import cv2
 import mediapipe as mp
 import math
 
-# --- Helpers ---
+# --- Helpers -
 def distance(p1, p2):
     return math.hypot(p2.x - p1.x, p2.y - p1.y)
 

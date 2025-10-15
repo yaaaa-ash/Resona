@@ -1,0 +1,21 @@
+# Python environment
+gesture-env/
+venv/
+env/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and misc
+*.log
+*.tmp
+
+# Large / generated files
+*.dll
+*.pyd
+*.so

@@ -3,6 +3,10 @@ import mediapipe as mp
 import mido
 import math
 
+
+
+
+
 # ---- MIDI setup ----
 MIDI_PORT_NAME = 'GestureSound 1'
 outport = mido.open_output(MIDI_PORT_NAME)
